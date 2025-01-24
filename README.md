@@ -6,11 +6,11 @@ Olá, meu nome é Gustavo Ventura da Silva. Atualmente, estou cursando Análise 
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML, CSS, Java Script e React
+  🦄 Linguagens: HTML, CSS, Java Script, Java, Goolang
 </p>
 
 <p align="left">
-  💼 Ferramentas: Java Script, React, WSO2 e MySQL
+  💼 Ferramentas: React, Next, Spring Boot, AWS WSO2 e MySQL
 </p>
 
 <p align="left">
