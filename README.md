@@ -2,7 +2,7 @@
 
 <p align="left"> 
   
-Olá, meu nome é Gustavo Ventura da Silva. Atualmente, estou cursando Análise em Desenvolvimento de Sistemas na <strong>FMP</strong> e estou empregado como <strong>Estagiário em Desenvolvimento na Intelbras</strong>
+Olá, meu nome é Gustavo Ventura da Silva. Atualmente, estou cursando Análise em Desenvolvimento de Sistemas na <strong>FMP</strong>.
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@ Ferramentas: React, Next, Spring Boot, AWS WSO2 e MySQL
 </p>
 
 <p align="left">
-  Entre em contato através de: ⤵️
+  Entre em contato através de:
 </p>
 
 <p align="left">
