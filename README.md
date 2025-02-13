@@ -14,10 +14,6 @@ Ferramentas: React, Next, Spring Boot, AWS WSO2 e MySQL
 </p>
 
 <p align="left">
-  Entre em contato através de:
-</p>
-
-<p align="left">
   <a href="mailto:gustavo.ventura.work@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
