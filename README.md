@@ -14,8 +14,7 @@ Ferramentas: React, Next, Spring Boot, AWS WSO2 e MySQL
 </p>
 
 <p align="left">
-  ntre em contato através de: ⤵️
-  gustavo.ventura.work@gmail.com
+  Entre em contato através de: ⤵️
 </p>
 
 <p align="left">
